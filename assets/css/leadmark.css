@@ -2778,8 +2778,8 @@ fieldset:disabled a.btn {
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #421cff;
-  border-color: #230fff;
+  background-color: #3b41b0;
+  border-color: #0110b2;
 }
 
 .btn-primary:focus, .btn-primary.focus {
@@ -3305,7 +3305,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-link:hover {
-  color: #f53900;
+  color: #0031f5;
   text-decoration: none;
 }
 
